@@ -1,2 +1,3 @@
 # hello-world
-My first repository
+
+Hi, this is Sidarte and I'm new to GitHub.
